@@ -20,6 +20,7 @@ Blynk app: It is a platform available on both iOS and Android devices to control
 
 # 3. Image Processing
 A convolutional neural network has been used on Snapshot Serengeti dataset to determine whether the images taken contain an animal or not. Based on this the images can be classified as animal and not animal. The accuracy is about 85% and the system is able to correctly predict where the animal is in the foreground.
+
 ![alt text](https://github.com/ShireenPatel/intrusion-x/blob/master/images/Screenshot%20(130).png?raw=true)
 ![alt text](https://github.com/ShireenPatel/intrusion-x/blob/master/images/Screenshot%20(131).png?raw=true)
 
